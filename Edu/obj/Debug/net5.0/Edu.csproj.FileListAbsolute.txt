@@ -1,0 +1,16 @@
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.exe
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.deps.json
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.runtimeconfig.json
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.runtimeconfig.dev.json
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.dll
+D:\Projects\Edu\Edu\bin\Debug\net5.0\ref\Edu.dll
+D:\Projects\Edu\Edu\bin\Debug\net5.0\Edu.pdb
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.csproj.AssemblyReference.cache
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.AssemblyInfoInputs.cache
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.AssemblyInfo.cs
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.csproj.CoreCompileInputs.cache
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.dll
+D:\Projects\Edu\Edu\obj\Debug\net5.0\ref\Edu.dll
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.pdb
+D:\Projects\Edu\Edu\obj\Debug\net5.0\Edu.genruntimeconfig.cache
