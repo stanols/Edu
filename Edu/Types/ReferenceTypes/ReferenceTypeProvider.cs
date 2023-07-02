@@ -12,7 +12,7 @@ namespace Edu.Types.ReferenceTypes
     {
         public static void PrintReferenceTypeResults() 
         {
-            ArrayTypeProvider.PrintArrayTypeResults();
+            //ArrayTypeProvider.PrintArrayTypeResults();
             ObjectTypeProvider.PrintObjectTypeResults();
         }
     }
