@@ -18,7 +18,7 @@ namespace Edu.Types.Operations
 
             var c = a / b;
             double d = 10 / 3; //literals are converted to int
-            var e = (double)a / b;            
+            var e = (double)a / b;
             var f = 10.0 / 3;
             var g = 10.0 % 3;
             var h = x++;
@@ -26,8 +26,8 @@ namespace Edu.Types.Operations
             var j = y--;
             var k = --y;
 
-            Console.WriteLine($"с: {c}");          
-            Console.WriteLine($"d: {d}");           
+            Console.WriteLine($"с: {c}");
+            Console.WriteLine($"d: {d}");
             Console.WriteLine($"e: {e}");
             Console.WriteLine($"f: {f}");
             Console.WriteLine($"g: {g}");
