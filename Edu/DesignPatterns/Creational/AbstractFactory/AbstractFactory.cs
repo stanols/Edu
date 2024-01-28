@@ -3,7 +3,7 @@ using Edu.DesignPatterns.Creational.AbstractFactory.Interfaces;
 
 namespace Edu.DesignPatterns.Creational.AbstractFactory
 {
-	public class AbstractFactory
+	public static class AbstractFactory
 	{
 		public static void PrintAbstractFactoryResults()
 		{

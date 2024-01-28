@@ -9,6 +9,7 @@ using Edu.Loops;
 using Edu.Types.ReferenceTypes;
 using Edu.Threads;
 using Edu.DesignPatterns.Creational.AbstractFactory;
+using Edu.DesignPatterns.Creational.Builder;
 
 namespace Edu
 {
