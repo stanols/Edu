@@ -8,6 +8,7 @@ using Edu.Types.Condition;
 using Edu.Loops;
 using Edu.Types.ReferenceTypes;
 using Edu.Threads;
+using Edu.DesignPatterns.Creational.AbstractFactory;
 
 namespace Edu
 {
@@ -16,7 +17,8 @@ namespace Edu
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
-            Console.ReadLine();
+
+			Console.ReadLine();
         }
     }
 }

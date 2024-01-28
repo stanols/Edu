@@ -19,7 +19,7 @@ namespace Edu.Loops
                 {
                     break;
                 }
-            }            
+            }
 
             for (; index < 3;)
             {
