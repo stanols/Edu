@@ -192,3 +192,4 @@ ModelManifest.xml
 #UI
 package-lock.json
 node_modules
+/.vs/Edu/DesignTimeBuild/.dtbcache.v2

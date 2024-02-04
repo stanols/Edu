@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="DesignPatterns\Behavioral\" />
+    <Folder Include="DesignPatterns\Structural\" />
     <Folder Include="Types\ReferenceTypes\Dynamics\" />
     <Folder Include="Types\ReferenceTypes\Stirngs\" />
   </ItemGroup>
