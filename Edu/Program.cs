@@ -11,6 +11,7 @@ using Edu.Threads;
 using Edu.DesignPatterns.Creational.AbstractFactory;
 using Edu.DesignPatterns.Creational.Builder;
 using Edu.DesignPatterns.Creational.Prototype;
+using Edu.DesignPatterns.Creational.Singleton;
 
 namespace Edu
 {
