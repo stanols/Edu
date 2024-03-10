@@ -13,6 +13,7 @@ using Edu.DesignPatterns.Creational.Builder;
 using Edu.DesignPatterns.Creational.Prototype;
 using Edu.DesignPatterns.Creational.Singleton;
 using Edu.DesignPatterns.Structural.Adapter;
+using Edu.DesignPatterns.Structural.Bridge;
 
 namespace Edu
 {
