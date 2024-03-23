@@ -12,6 +12,9 @@ using Edu.DesignPatterns.Creational.AbstractFactory;
 using Edu.DesignPatterns.Creational.Builder;
 using Edu.DesignPatterns.Creational.Prototype;
 using Edu.DesignPatterns.Creational.Singleton;
+using Edu.DesignPatterns.Structural.Adapter;
+using Edu.DesignPatterns.Structural.Bridge;
+using Edu.DesignPatterns.Structural.Composite;
 
 namespace Edu
 {
@@ -19,7 +22,7 @@ namespace Edu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+			Console.WriteLine("Hello, world!");
 
 			Console.ReadLine();
         }
