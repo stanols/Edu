@@ -15,6 +15,7 @@ using Edu.DesignPatterns.Creational.Singleton;
 using Edu.DesignPatterns.Structural.Adapter;
 using Edu.DesignPatterns.Structural.Bridge;
 using Edu.DesignPatterns.Structural.Composite;
+using Edu.DesignPatterns.Structural.Decorator;
 
 namespace Edu
 {
