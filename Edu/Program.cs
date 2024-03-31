@@ -18,6 +18,7 @@ using Edu.DesignPatterns.Structural.Composite;
 using Edu.DesignPatterns.Structural.Decorator;
 using Edu.DesignPatterns.Structural.Facade;
 using Edu.DesignPatterns.Structural.Flyweight;
+using Edu.DesignPatterns.Structural.Proxy;
 
 namespace Edu
 {
