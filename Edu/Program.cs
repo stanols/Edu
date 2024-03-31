@@ -17,6 +17,7 @@ using Edu.DesignPatterns.Structural.Bridge;
 using Edu.DesignPatterns.Structural.Composite;
 using Edu.DesignPatterns.Structural.Decorator;
 using Edu.DesignPatterns.Structural.Facade;
+using Edu.DesignPatterns.Structural.Flyweight;
 
 namespace Edu
 {
