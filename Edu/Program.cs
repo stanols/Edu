@@ -15,6 +15,10 @@ using Edu.DesignPatterns.Creational.Singleton;
 using Edu.DesignPatterns.Structural.Adapter;
 using Edu.DesignPatterns.Structural.Bridge;
 using Edu.DesignPatterns.Structural.Composite;
+using Edu.DesignPatterns.Structural.Decorator;
+using Edu.DesignPatterns.Structural.Facade;
+using Edu.DesignPatterns.Structural.Flyweight;
+using Edu.DesignPatterns.Structural.Proxy;
 
 namespace Edu
 {
