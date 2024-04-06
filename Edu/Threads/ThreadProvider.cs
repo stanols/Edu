@@ -50,7 +50,13 @@ namespace Edu.Threads
                 });
         }
 
-        static void MakeCoffe(object request)
+        public static void EnqueueTaskToThreadPool()
+        {
+            var drinkRequest = new DrinkRequest { Count = 1, HasSugar = false };
+            ThreadPool.QueueUserWorkItem(MakeCoffe, drinkRequest);
+        }
+
+        public static void MakeCoffe(object request)
         {
             var drinkRequest = (DrinkRequest)request;
 
@@ -74,7 +80,7 @@ namespace Edu.Threads
             }
         }
 
-        static void MakeTea(object request)
+        public static void MakeTea(object request)
         {
             var drinkRequest = (DrinkRequest)request;
 
@@ -97,12 +103,5 @@ namespace Edu.Threads
                 semaphore.Release();
             }
         }
-
-    }
-
-    public class DrinkRequest
-    {
-        public int Count { get; set; }
-        public bool HasSugar { get; set; }
     }
 }
