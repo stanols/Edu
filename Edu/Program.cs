@@ -20,6 +20,7 @@ using Edu.DesignPatterns.Structural.Facade;
 using Edu.DesignPatterns.Structural.Flyweight;
 using Edu.DesignPatterns.Structural.Proxy;
 using Edu.DesignPatterns.Behavioral.ChainOfResponsibility;
+using Edu.DesignPatterns.Behavioral.Command;
 
 namespace Edu
 {
