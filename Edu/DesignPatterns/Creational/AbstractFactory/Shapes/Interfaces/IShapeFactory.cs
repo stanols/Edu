@@ -1,11 +1,11 @@
 ﻿namespace Edu.DesignPatterns.Creational.AbstractFactory.Shapes.Interfaces
 {
-    public interface IShapeFactory
-    {
-        ICircle CreateCircle();
+	public interface IShapeFactory
+	{
+		ICircle CreateCircle();
 
-        IRectangle CreateRectangle();
+		IRectangle CreateRectangle();
 
-        ITriangle CreateTriangle();
-    }
+		ITriangle CreateTriangle();
+	}
 }

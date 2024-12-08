@@ -2,8 +2,8 @@
 
 namespace Edu.DesignPatterns.Behavioral.Iterator
 {
-    public abstract class IteratorAggregate : IEnumerable
-    {
-        public abstract IEnumerator GetEnumerator();
-    }
+	public abstract class IteratorAggregate : IEnumerable
+	{
+		public abstract IEnumerator GetEnumerator();
+	}
 }

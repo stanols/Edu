@@ -8,12 +8,12 @@ using Edu.Types.ReferenceTypes.Objects;
 
 namespace Edu.Types.ReferenceTypes
 {
-    public static class ReferenceTypeProvider
-    {
-        public static void PrintReferenceTypeResults() 
-        {
-            //ArrayTypeProvider.PrintArrayTypeResults();
-            ObjectTypeProvider.PrintObjectTypeResults();
-        }
-    }
+	public static class ReferenceTypeProvider
+	{
+		public static void PrintReferenceTypeResults()
+		{
+			//ArrayTypeProvider.PrintArrayTypeResults();
+			ObjectTypeProvider.PrintObjectTypeResults();
+		}
+	}
 }

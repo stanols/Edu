@@ -1,6 +1,6 @@
 ﻿namespace Edu.DesignPatterns.Creational.Builder.Parts
 {
-    public class Wing
-    {
-    }
+	public class Wing
+	{
+	}
 }

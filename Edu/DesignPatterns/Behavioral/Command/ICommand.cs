@@ -1,7 +1,7 @@
 ﻿namespace Edu.DesignPatterns.Behavioral.Command
 {
-    public interface ICommand
-    {
-        void Execute();
-    }
+	public interface ICommand
+	{
+		void Execute();
+	}
 }
