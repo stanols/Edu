@@ -21,16 +21,18 @@ using Edu.DesignPatterns.Structural.Flyweight;
 using Edu.DesignPatterns.Structural.Proxy;
 using Edu.DesignPatterns.Behavioral.ChainOfResponsibility;
 using Edu.DesignPatterns.Behavioral.Command;
+using Edu.GarbageCollector;
+using Edu.Events;
 
 namespace Edu
 {
-    static class Program
-    {
-        static void Main(string[] args)
-        {
-			Console.WriteLine("Hello, world!");
+	static class Program
+	{
+		static void Main(string[] args)
+		{
+			AppEvents.PrintResults();
 
 			Console.ReadLine();
-        }
-    }
+		}
+	}
 }
